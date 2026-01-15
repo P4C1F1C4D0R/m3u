@@ -1,6 +1,3 @@
-#EXTINF:-1 group-title="sport",UFC Fight Pass
-http://127.0.0.1:6878/ace/getstream?infohash=a3164546b984d41a662ee44ddc9ece5952f69d33
-
 #EXTINF:-1 group-title="sport",FOX PREMIUM UFC
 http://127.0.0.1:6878/ace/getstream?infohash=c9bd6dc0f30b3d0d9e550d1ad41b27116d307e71
 
