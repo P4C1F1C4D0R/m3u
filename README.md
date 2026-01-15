@@ -1,5 +1,3 @@
-#EXTM3U url-tvg="http://epg.one/epg2.xml.gz" tvg-shift=0 deinterlace=1 m3uautoload=1
-
 #EXTINF:-1 group-title="sport",UFC Fight Pass
 http://127.0.0.1:6878/ace/getstream?infohash=a3164546b984d41a662ee44ddc9ece5952f69d33
 
